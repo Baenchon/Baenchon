@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Baenchon
 - 👀 I’m interested in coding in general.
-- 🌱 I’m currently learning Python (automation).
-- 💞️ I’m not looking to collaborate, yet.
-- 📫 Reach me by sending a message.
 - 👨‍🎓 BSc: Mechanical Engineering & MSc: Automotive Technology
 
 <!---
